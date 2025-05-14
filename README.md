@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Simran Savita!
 
-<!--
-**simransavita9984/simransavita9984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year IT student | 💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- 💡 Languages: Java, C++, Python, JavaScript
+- 🌐 Frontend: HTML5, CSS3, React.js, Tailwind
+- 🔧 Backend: Firebase
+- 🧠 ML: Python, Scikit-learn
+- 🛢️ Database: MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🧠 [ Smart Drone with Pollution Detection](https://github.com/simransavita9984/smart-drone)
+- 📊 [Grammar Scoring Engine](https://github.com/simransavita9984/spoken-grammar-evaluator)
+- 💬 [Tic-Tac-Toe Game](https://github.com/simransavita9984/Tic-Tac-Toe-Game)
+
+## 🔍 Currently Looking For
+Internships and job opportunities in **Full-Stack Development** and **Machine Learning** 
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/simran-savita/) | simransavita11@gmail.com
+
