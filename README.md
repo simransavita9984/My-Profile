@@ -3,11 +3,17 @@
 🎓 3rd Year IT student | 💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast
 
 ## 🚀 Tech Stack
-- 💡 Languages: Java, C++, Python, JavaScript
-- 🌐 Frontend: HTML5, CSS3, React.js, Tailwind
-- 🔧 Backend: Firebase
-- 🧠 ML: Python, Scikit-learn
-- 🛢️ Database: MongoDB
+
+- 💡 **Languages**: Java, C++, Python, JavaScript
+- 🌐 **Frontend**:
+  - HTML5, CSS3
+  - React.js, Tailwind CSS
+- 🔧 **Backend** _(learning)_:  
+  - Node.js, Express.js, Firebase
+- 🛢️ **Database** _(learning)_:  
+  - MongoDB, MySQL, SQL
+- 🤖 **Machine Learning**:
+  - Python, Scikit-learn
 
 ## 📌 Projects
 - 🧠 [ Smart Drone with Pollution Detection](https://github.com/simransavita9984/smart-drone)
