@@ -8,7 +8,7 @@
 - 🌐 **Frontend**:
   - HTML5, CSS3
   - React.js, Tailwind CSS
-- 🔧 **Backend** _(learning)_:  
+- 🔧 **Backend**:  
   - Node.js, Express.js, Firebase
 - 🛢️ **Database** _(learning)_:  
   - MongoDB, MySQL, SQL
