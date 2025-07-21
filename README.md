@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Simran Savita!
 
-🎓 3rd Year IT student | 💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast
+🎓 4th Year IT student | 💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast
 
 ## 🚀 Tech Stack
 
