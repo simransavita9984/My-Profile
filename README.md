@@ -72,7 +72,5 @@ A browser-based interactive Tic-Tac-Toe game with responsive design and two-play
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simransavita9984&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simransavita9984&theme=radical)
-
 
 ---
