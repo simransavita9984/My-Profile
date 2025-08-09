@@ -1,6 +1,5 @@
 # 👩‍💻 Hi there, I'm Simran Savita!  
-🎓 Final Year Information Technology Student | 💻 Aspiring Software Engineer  
-📍 Kanpur, India  
+🎓 **4th Year IT Student** | 💻 **Full-Stack Developer** | 🤖 **Machine Learning Enthusiast**  
 
 ---
 
@@ -12,43 +11,48 @@
 - 📚 Lifelong learner, constantly exploring new technologies to solve real-world problems.
 
 ---
+## 🚀 Tech Stack
 
-## 🛠 Tech Stack
+### 💡 Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Languages:**  
-`C` `C++` `Python` `JavaScript` `SQL`
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Frameworks & Libraries:**  
-`ReactJS` `NextJS` `Node.js` `Express.js` `Django`
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Databases & Backend:**  
-`MongoDB` `MySQL` `AWS`
+### 🛢️ Database (Learning)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF4500?style=for-the-badge)
 
-**Data & Analytics:**  
-`NumPy` `Pandas` `Tableau` `Data Modeling` `ETL/ELT` `Data Warehousing`
-
-**Tools & Deployment:**  
-`Git` `GitHub` `Netlify` `VS Code`
+### 🤖 Machine Learning
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
 ## 📌 Top Projects
 
-### 📊 **Stock Market Analysis Web App**  
-**Tech:** ReactJS • Node.js • MongoDB • Express.js • Chart.js  
-A responsive web application for tracking stock trends, analyzing historical data, and visualizing patterns using interactive charts.
+### 🧠 **Smart Drone with Pollution Detection**  
+**Tech:** C++ • IoT • Sensors  
+A drone equipped with pollution detection sensors that captures and processes environmental data for monitoring air quality in real time.
 
-### 🧠 **AI-Powered Disease Prediction Chatbot** *(In Progress)*  
-**Tech:** Flutter • Dart • NLP • APIs • Firebase  
-A chatbot that predicts possible diseases based on symptoms and suggests remedies, integrating AI with healthcare data.
+### 📊 **Grammar Scoring Engine**  
+**Tech:** Python • Scikit-learn • Machine Learning Models  
+A machine learning-powered engine that evaluates spoken or written grammar, providing a score and improvement suggestions based on linguistic analysis.
 
-### 📱 **Fitness & Diet Tracker App**  
-**Tech:** ReactJS • Node.js • MongoDB • Express.js  
-A full-stack responsive platform to track workouts, diet plans, and health stats with personalized recommendations.
-
-### 🎥 **Amazon Clone**  
-**Tech:** HTML • CSS  
-A functional clone of Amazon's UI for practicing frontend design and responsive layouts.
+### 💬 **Tic-Tac-Toe Game**  
+**Tech:** ReactJS • Tailwind CSS • JavaScript  
+A browser-based interactive Tic-Tac-Toe game with responsive design and two-player functionality.
 
 ---
 
@@ -62,8 +66,8 @@ A functional clone of Amazon's UI for practicing frontend design and responsive 
 
 ## 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simransavita)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simran-savita/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simransavita11@gmail.com)  
 
 ---
 
